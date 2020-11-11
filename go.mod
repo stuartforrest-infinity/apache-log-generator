@@ -1,4 +1,4 @@
-module github.com/fergusstrange/apache-log-generator
+module github.com/stuartforrest-infinity/apache-log-generator
 
 go 1.13
 
